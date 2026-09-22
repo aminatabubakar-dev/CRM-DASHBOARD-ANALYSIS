@@ -67,6 +67,3 @@ It also helped me improve my skills in Power BI, DAX, Power Query, customer segm
 
 ## Author
 Aminat Abubakar
-
-Computer Science Student
-Covenant University
